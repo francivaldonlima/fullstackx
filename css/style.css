@@ -633,7 +633,7 @@ ul {
 /*=================== custom button rule start ====================*/
 /* line 114, E:/172 Etrain Education/172_Etrain_Education_html/sass/_button.scss */
 .button {
-  display: inline-block;
+  display: block;
   border: 1px solid transparent;
   font-size: 15px;
   font-weight: 500;

@@ -342,7 +342,8 @@ Version:	1.0
 	font-weight: 800;
 	color: #fff;
 	padding: 30px;
-	display: inline-block;
+	display: block;
+  	text-align: center;
 
 
 }
